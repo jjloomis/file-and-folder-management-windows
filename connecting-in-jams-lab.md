@@ -7,5 +7,3 @@ When using a Mac in a JAMS Lab \(BOL 296, 510, 521, 531\), you can double-click 
 3. Double-click your course number folder. 
 4. In the course number folder, your class folder will appear in this format: _Lastname-Firstname_. Double-click your class folder to open it in a Finder window. 
 
-
-

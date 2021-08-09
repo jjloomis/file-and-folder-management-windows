@@ -6,5 +6,3 @@ To save a copy of your multimedia project, you’ll need to copy your entire pro
 2. Open another Finder window. Navigate to your USB drive or Mac-formatted external hard drive. 
 3. Copy your project folder from your class folder to your USB drive or Mac-formatted external hard drive.
 
-
-

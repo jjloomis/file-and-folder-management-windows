@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Connecting to Your Class Folder in a JAMS Lab](connecting-in-jams-lab.md)

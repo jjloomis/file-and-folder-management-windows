@@ -1,8 +1,8 @@
-# File and Folder Management
+# Introduction
 
 ## About
 
-File and Folder Management for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
+File and Folder Management for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 

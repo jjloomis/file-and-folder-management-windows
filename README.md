@@ -2,7 +2,7 @@
 
 ## About
 
-File and Folder Management \(Windows\) for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
+File and Folder Management \| Windows for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 
